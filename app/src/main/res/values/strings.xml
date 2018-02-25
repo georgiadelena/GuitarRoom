@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Guitar Room</string>
+    <string name="guitarRoom">Guitar Room</string>
+    <string name="address">Mikinon 37, 54643 Thessaloniki, Greece</string>
+    <string name="phoneNumber">+30 6944 694334</string>
+    <string name="description">Guitar Room by Valve Studio. \nInstrument maintenance, setup and rig services.</string>
+</resources>
